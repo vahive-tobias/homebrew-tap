@@ -1,5 +1,5 @@
 class MagusOpensecmcp < Formula
-  desc "Local-first execution firewall for MCP agents"
+  desc "Local-first deterministic execution firewall for MCP agents"
   homepage "https://github.com/vahive-tobias/magus-opensecmcp"
   url "https://github.com/vahive-tobias/magus-opensecmcp.git",
       tag:      "v0.1.0",
