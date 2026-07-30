@@ -2,10 +2,10 @@ class MagusOpensecmcp < Formula
   desc "Local-first deterministic execution firewall for MCP agents"
   homepage "https://github.com/vahive-tobias/magus-opensecmcp"
   url "https://github.com/vahive-tobias/magus-opensecmcp.git",
-      tag:      "v0.1.0",
-      revision: "ff3e9aaf99ee3ffa8fda087f30721336421d8d0e"
-  version "0.1.0"
-  license "MIT"
+      tag:      "v0.1.1",
+      revision: "a1413042744d1d2be33bd1a649796d28bd0250bf"
+  version "0.1.1"
+  license "Apache-2.0"
 
   depends_on "rust" => :build
 
